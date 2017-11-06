@@ -1,0 +1,17 @@
+body {
+    font: 1em verdana, arial, 'sans serif';
+    background-image: url("espacio.jpeg");
+    background-repeat: repeat;
+    text-indent: 10px;
+}
+
+p {
+    font-size: 1.75em;
+    text-align: justify;
+    color: white
+}
+
+h1 {
+    color: lightyellow;
+    font-size: 300%;
+}
